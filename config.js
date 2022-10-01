@@ -6,9 +6,9 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['5493751585118', '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 ❤🐈‍⬛', true],
+  ['59996788826', '𝑱𝒖𝒂𝒏𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['51993042301', '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
   ['50495086382'],
   ['584166662765'],
   ['584163647116'],
@@ -85,8 +85,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🐈‍⬛ 𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝑱𝒖𝒂𝒏 𝘿𝙞𝙤𝙨'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -96,20 +96,20 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.0'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.gatabot = gt
+global.gt = '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.yukibot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UC2R3yxeug4zZte1haQsQ6VA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
-global.gatadiosig = ig
+global.ig = 'https://www.instagram.com/osiris.ts'
+global.juandiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.gatabot = md
+global.md = 'https://github.com/JuanDiosTS/GataBot-MD'
+global.yukibot = md
 
-global.nna = 'https://chat.whatsapp.com/LyetuaoLH2JEzTru6GWcs7'
-global.nnagrupo = nna //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/JEBGVtLCLIv2tehsPhTov7'
+global.nnagrupo = nna //UPDATE YUKIBOT
 
 global.nn = 'https://chat.whatsapp.com/CozkKQaGmgVEghtHBsT4ye'
 global.nngrupo = nn //Grupo 1
@@ -126,7 +126,7 @@ global.nnnttgrupo = nnntt //Grupo 4
 global.nnnttt = 'https://chat.whatsapp.com/LtcSk6DQysJ3mANKLDiur2'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/joesnaiper1'
 global.donar = paypal
 
 //global.gbrandom = [nna, nn, nnn, nnnt]  gbrandom.getRandom()
@@ -164,8 +164,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 : 𝑱𝒖𝒂𝒏 𝘿𝙞𝙤𝙨'
+global.igfg = '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
